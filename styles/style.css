@@ -148,6 +148,7 @@
 .banner-footer-head h1{
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 3rem;
 }
 .banner-footer-head .banner-footer-p1{
     padding-bottom: 20px;
@@ -155,13 +156,13 @@
 }
 .banner-footer-head p{
     opacity: 80%;
-    padding-bottom: 180px;
+    padding-bottom: 60px;
 }
 .banner-footer-link ul{
      display: flex;
     list-style: none;
     gap: 20px;
-    padding-top: 220px ;
+    padding-top: 60px ;
     /* align-items: center; */
     text-align: center;
     justify-content: center;
